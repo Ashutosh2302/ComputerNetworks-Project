@@ -5,4 +5,4 @@ Technologies used-
     TCP protocol
     SMTP protocol
     FTP protocol
-    MySQL database
+    MySQL database for storing various information
