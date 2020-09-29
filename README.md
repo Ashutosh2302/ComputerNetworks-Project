@@ -1,7 +1,7 @@
 # ComputerNetworks-Project
 Project based on socket programming written in python using MySQL database
-This project build on client server architecture
-Technoligies used-
+Build on client server model
+Technologies used-
     TCP protocol
     SMTP protocol
     FTP protocol
